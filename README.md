@@ -1,46 +1,66 @@
-# 👋 Hi there, I'm Mohamed Hassan (Kouka)
+<!-- README.md for GitHub Profile -->
 
-I'm a Computer and Communication Engineering student at Alexandria University with a passion for building efficient, user-friendly software. I specialize in **Frontend Development** with React, but I also enjoy diving into **backend systems**, exploring **DevOps**, and learning about **cloud infrastructure**.
+<h1 align="center">Hi there, I'm Mohamed Hassan (Kouka) 👋</h1>
 
----
-
-## 💻 Tech Stack
-
-- **Languages:** JavaScript, Python, C/C++
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Flask
-- **Database:** PostgreSQL, MongoDB
-- **Tools & DevOps:** Git, GitHub, Docker, AWS, Nginx
-- **Others:** REST APIs, Figma, ShadCN UI, GitHub Actions
+<p align="center">
+  <em>Computer & Communication Engineer | Full Stack Developer | React Enthusiast</em>
+</p>
 
 ---
 
-## 🚀 Projects
+### 💫 About Me
 
-Here are a few highlights of what I’ve built:
-
-- **[Fastier](https://github.com/yourusername/fastier)** – A blazing-fast productivity web app (React + Flask + PostgreSQL)  
-- **[KOK Social App](https://github.com/yourusername/kok-social)** – Frontend-only social media app with like/comment/edit/delete features  
-- **[ByteLearn](https://github.com/yourusername/bytelearn)** – A modern e-learning platform built to help students learn byte by byte
-
-> Explore more in the **Pinned Repositories** section below 👇
+- 🎓 Computer & Communication Engineering @ Alexandria University  
+- 🧠 Learning DevOps and Cloud (AWS & Docker)
+- 🔧 Building full-stack web apps and performance-first UI
+- 🏐 Volleyball U19 Team Captain @ ASC  
+- 🐈 Cat person 🐾
 
 ---
 
-## 🏆 Achievements
+### 🛠 Tech Stack
 
-- 🎓 Intern of the Month @ Uneeq – worked across both frontend and backend
-- 📜 Letter of Recommendation from Alpha Code
-- 🌐 Frontend Lead @ IEEE Alexandria Student Branch – redesigned the main website
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌍 [Portfolio](https://yourportfolio.com)
-- ✉️ [Email](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,nodejs,flask,postgres,mongodb,docker,git,github,figma,aws" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! If you like what you see, feel free to follow me or reach out — I'm always up for interesting collaborations or projects.*  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kouka05&show_icons=true&theme=radical" alt="Kouka's GitHub stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kouka05&theme=radical" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouka05&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kouka05&theme=radical" />
+</p>
+
+---
+
+### ✨ Fun Stuff
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+frontend+lead+%F0%9F%92%BB;Always+learning+something+new!;Let's+build+something+awesome!+" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elsabbagh05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mohamedhassansabbagh2005@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
