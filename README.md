@@ -39,14 +39,6 @@
 
 ---
 
-### 🔥 Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kouka05&theme=radical" />
-</p>
-
----
-
 ### ✨ Fun Stuff
 
 <p align="center">
@@ -59,7 +51,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elsabbagh05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:mohamedhassansabbagh2005@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
