@@ -30,8 +30,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kouka05&show_icons=true&theme=radical" alt="Kouka's GitHub stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kouka05&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=Kouka05&theme=radical" 
+  alt="GitHub Streak Stats" 
+  height="180" 
+  loading="lazy" 
+/></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouka05&layout=compact&theme=radical" alt="Top Languages" />
